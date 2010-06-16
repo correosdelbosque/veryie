@@ -54,7 +54,7 @@ BSC32=bscmake.exe
 # ADD BSC32 /nologo
 LINK32=link.exe
 # ADD BASE LINK32 /nologo /subsystem:windows /machine:I386
-# ADD LINK32 Wsock32.lib winmm.lib /nologo /subsystem:windows /machine:I386 /out:"../HackerBrowser/HackerBrowser.exe"
+# ADD LINK32 Wsock32.lib winmm.lib /nologo /subsystem:windows /machine:I386 /out:"../release/HackerBrowser.exe"
 # SUBTRACT LINK32 /pdb:none
 
 !ELSEIF  "$(CFG)" == "VeryIE - Win32 Debug"
@@ -84,7 +84,7 @@ BSC32=bscmake.exe
 # ADD BSC32 /nologo
 LINK32=link.exe
 # ADD BASE LINK32 Wsock32.lib pdh.lib Delayimp.lib /nologo /subsystem:windows /profile /map /debug /machine:I386 /DELAYLOAD:pdh.dll
-# ADD LINK32 Wsock32.lib winmm.lib /nologo /subsystem:windows /profile /map /debug /machine:I386 /out:"../HackerBrowser/HackerBrowserD.exe"
+# ADD LINK32 Wsock32.lib winmm.lib /nologo /subsystem:windows /profile /map /debug /machine:I386 /out:"../release/HackerBrowserD.exe"
 
 !ENDIF 
 
