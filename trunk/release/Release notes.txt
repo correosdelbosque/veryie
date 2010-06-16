@@ -1,0 +1,31 @@
+HackerBrowser1.0.0.1beta体验版本发布(2008.11.14)
+HackerBrowser1.0.0.2 体验版本发布(2008.11.17)
+1.删除收藏夹导入导出功能
+2.最小化不放到托盘
+3.默认用firefox皮肤
+HackerBrowser1.0.0.3 体验版本发布(2008.11.28)
+1.删除左侧资源菜单
+2.精简外部工具
+3.加一套Cartoon皮肤
+1.删除自动刷新功能
+2.删除背景色功能
+HackerBrowser1.0.0.4发布(2008.12.03)
+1.删除外部工具模块
+2.删除快捷键和缩写词模块
+3.优化执行体空间和时间
+
+
+HackerBrowser1.0.0.8发布(2010.02.26)
+
+Fixed Bugs:
+1.完善中文化
+2.F11/F12地址栏不显示的问题
+
+HackerBrowser1.0.0.8 release(2010.02.26)
+
+Fixed Bugs:
+1.comleted chinese version
+2.F11/F12 address bar cannot display when use fullscreen
+
+http://veryie.googlecode.com/files/HackerBrowser1.0.0.8.rar
+
